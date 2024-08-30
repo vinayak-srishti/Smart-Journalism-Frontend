@@ -1,0 +1,28 @@
+#accordionExample{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .con-bg{
+    background-color: #011e3a;
+    color: #fafafa;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+  }
+  .txt{
+    color: #000;
+  }
+  .txt1{
+    color: #000;
+  }
+  .txt2{
+    color: #ad3333;
+  }
+  
+  .abc{
+    text-align: center;
+    color:#002C54;
+  }
+  

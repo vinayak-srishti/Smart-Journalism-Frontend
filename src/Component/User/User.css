@@ -1,0 +1,38 @@
+
+.button{
+    background-color:#0f3150;
+  border:none;
+  color: #f8f5f5;
+  position: relative;
+  width: 230px;
+  height: 34px;
+}
+.logtit{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  color: #726e6e;
+  }
+  .regimg{
+  
+    text-align: center; 
+    height: 570px;     
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+   
+ }
+ .fortit{
+  font-size: x-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+color: #726e6e;
+ }
+ .forbutton{
+  background-color: #0f3150 ;
+  color: #f8f6f6;
+  /* width: 250px; */
+  height: 30px;
+  border: none;
+ 
+ }

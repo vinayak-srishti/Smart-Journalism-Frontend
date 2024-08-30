@@ -1,0 +1,20 @@
+#accordionExample{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .addplan{
+    border-radius: 15px;
+    border: 1px solid rgb(82, 79, 79);
+    }
+  .title{
+    text-align: center;
+    color: #7a7a7c;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large
+  }
+  .image-size{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }

@@ -1,0 +1,21 @@
+/* login */
+.button{
+    background-color:rgb(75, 130, 212);
+  border: none;
+  color: #f8f5f5;
+  position: relative;
+  width: 230px;
+  height: 34px;
+}
+.logtit{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  color: #726e6e;
+  }
+  .imagead{
+    width: 370px;
+    height: 370px;
+    border-radius: 50%;
+    object-fit: cover;
+  }

@@ -1,0 +1,51 @@
+.container {
+    text-align: center;
+    color: rgb(218, 218, 218);
+    padding: 50px 20px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  .card1 {
+    background-color:#05192c;
+    color: white;
+    /* height: 170px;
+    width:250px; */
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  /* .card img {
+    width: 50px;
+    height: 50px;
+  } */
+  .card h3 {
+    margin: 20px 0;
+    font-size: 24px;
+  }
+  /* .card button{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  } */
+  .head{
+    text-align: center;
+    color: #05192c;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  /* .card1:hover{
+    background-color:#05192c;
+  } */
+  .table{
+    border: 1px solid black;
+  
+  }
+ 
