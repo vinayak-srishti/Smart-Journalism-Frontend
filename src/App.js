@@ -69,6 +69,7 @@ function App() {
     <Route path='/Registereduser' element={<Registereduser/>}/>
     <Route path='/Vp' element={<Vp/>}/>
     <Route path='/Vr' element={<Vr/>}/>
+    {/* //hai */}
     <Route path='/Journalistprofile/:id' element={<Journalistprofile/>}/>
     <Route path='/Contactt' element={[<Navbarr/>,<Contactt/>]}/>
     <Route path='/Userhomenav' element={<Userhomenav/>}/>
